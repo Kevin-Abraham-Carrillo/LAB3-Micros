@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\kevin\Documents\Atmel Studio\7.0\LAB3-Micros\LAB3-Micros\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\kevin\Documents\Atmel Studio\7.0\LAB3-Micros\LAB3-Micros\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\kevin\Documents\Atmel Studio\7.0\LAB3-Micros\LAB3-Micros\Debug\LAB3-Micros.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>LAB3-Micros.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>LAB3-Micros.map</FILE>
+  <FILE>LAB3-Micros.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\kevin\Documents\Atmel Studio\7.0\LAB3-Micros\LAB3-Micros\main.asm</FILE><LINE>67</LINE></RESET>
+  <PCINT1_ISR><FILE>C:\Users\kevin\Documents\Atmel Studio\7.0\LAB3-Micros\LAB3-Micros\main.asm</FILE><LINE>142</LINE></PCINT1_ISR>
+  <TIMER0_OVF><FILE>C:\Users\kevin\Documents\Atmel Studio\7.0\LAB3-Micros\LAB3-Micros\main.asm</FILE><LINE>193</LINE></TIMER0_OVF>
+  <TABLA><FILE>C:\Users\kevin\Documents\Atmel Studio\7.0\LAB3-Micros\LAB3-Micros\main.asm</FILE><LINE>60</LINE></TABLA>
+  <MAIN><FILE>C:\Users\kevin\Documents\Atmel Studio\7.0\LAB3-Micros\LAB3-Micros\main.asm</FILE><LINE>136</LINE></MAIN>
+  <CHECK_DEC><FILE>C:\Users\kevin\Documents\Atmel Studio\7.0\LAB3-Micros\LAB3-Micros\main.asm</FILE><LINE>166</LINE></CHECK_DEC>
+  <UPDATE_LED><FILE>C:\Users\kevin\Documents\Atmel Studio\7.0\LAB3-Micros\LAB3-Micros\main.asm</FILE><LINE>174</LINE></UPDATE_LED>
+  <SHOW_DEC><FILE>C:\Users\kevin\Documents\Atmel Studio\7.0\LAB3-Micros\LAB3-Micros\main.asm</FILE><LINE>216</LINE></SHOW_DEC>
+  <SHOW_UNI><FILE>C:\Users\kevin\Documents\Atmel Studio\7.0\LAB3-Micros\LAB3-Micros\main.asm</FILE><LINE>212</LINE></SHOW_UNI>
+  <LOAD_SEG><FILE>C:\Users\kevin\Documents\Atmel Studio\7.0\LAB3-Micros\LAB3-Micros\main.asm</FILE><LINE>219</LINE></LOAD_SEG>
+  <ACT_DEC><FILE>C:\Users\kevin\Documents\Atmel Studio\7.0\LAB3-Micros\LAB3-Micros\main.asm</FILE><LINE>237</LINE></ACT_DEC>
+  <ACT_UNI><FILE>C:\Users\kevin\Documents\Atmel Studio\7.0\LAB3-Micros\LAB3-Micros\main.asm</FILE><LINE>232</LINE></ACT_UNI>
+  <AFTER_MUX><FILE>C:\Users\kevin\Documents\Atmel Studio\7.0\LAB3-Micros\LAB3-Micros\main.asm</FILE><LINE>241</LINE></AFTER_MUX>
+  <END_TIMER><FILE>C:\Users\kevin\Documents\Atmel Studio\7.0\LAB3-Micros\LAB3-Micros\main.asm</FILE><LINE>262</LINE></END_TIMER>
+ </LABELS>
+</ASSEMBLER_INFO>
