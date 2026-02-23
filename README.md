@@ -14,7 +14,7 @@ Funcionalidades:
 - PCINT (botones).
 - Contador binario independiente controlado por botones.
   
-  Funcionamiento:
+Funcionamiento:
 - Timer0 genera interrupciones cada ~10 ms.
 - Cada 100 interrupciones se completa 1 segundo.
 - El contador incrementa unidades (0–9).
