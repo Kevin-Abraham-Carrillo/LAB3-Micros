@@ -13,7 +13,8 @@ Funcionalidades:
 - Timer0 (conteo de tiempo).
 - PCINT (botones).
 - Contador binario independiente controlado por botones.
-- Funcionamiento
+  
+  Funcionamiento:
 - Timer0 genera interrupciones cada ~10 ms.
 - Cada 100 interrupciones se completa 1 segundo.
 - El contador incrementa unidades (0–9).
@@ -21,7 +22,7 @@ Funcionalidades:
 - Al llegar a 60, el contador se reinicia a 00.
 - Los displays se multiplexan alternando rápidamente entre unidades y decenas.
 
-Hardware Utilizado
+Hardware Utilizado:
 - ATmega328P – 16 MHz
 - 2 Displays de 7 segmentos (cátodo común)
 - 4 LEDs para contador binario
